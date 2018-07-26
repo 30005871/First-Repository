@@ -1,0 +1,7 @@
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\bin\Debug\Testing Stuff Out.exe.config
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\bin\Debug\Testing Stuff Out.exe
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\bin\Debug\Testing Stuff Out.pdb
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\obj\Debug\Testing Stuff Out.csprojAssemblyReference.cache
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\obj\Debug\Testing Stuff Out.csproj.CoreCompileInputs.cache
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\obj\Debug\Testing Stuff Out.exe
+C:\Users\30005871\Desktop\First-Repository\Testing Stuff Out\Testing Stuff Out\obj\Debug\Testing Stuff Out.pdb
